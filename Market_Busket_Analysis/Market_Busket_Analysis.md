@@ -233,13 +233,5 @@ This project demonstrates the application of **Market Basket Analysis using the 
 
 The insights generated from association rules can support **product recommendations, cross-selling, product bundling, promotional strategies, and data-driven business decisions**.
 
-## Author
 
-**Bappi Osman**
-
-Computer Science & Engineering
-Southeast University
-
-**GitHub:** Bappyosman
-**LinkedIn:** Bappy Osman
 
